@@ -1,0 +1,10 @@
+positive testing
+
+Tytuł / Summary: Test reklam
+Opis / Description: sprawdzenie funkcjonalności reklam
+Warunki wstępne / Precondition: start strona główna, paski z reklamami
+Kroki / Test Steps 
+1. wpisać w pasek przeglądarki adres strony www sklepu internetowego
+2.kliknąć w wyświetlające się reklamy na górze/dole/prawy/lewy pasek
+3.sprawdzić poprawność przeniesienia do właściwej podstrony
+Oczekiwane rezultaty / Expected Result: strona sklepu internetowego przenosi do adekwatnego działu zgodnego z treścią reklamy
