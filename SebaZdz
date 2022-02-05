@@ -1,0 +1,15 @@
+Tytuł:  Checking product sorting from the highest price descending
+Środowisko:  http://automationpractice.com/index.php
+Wersja: 1.01
+Warunek wstępny: After pressing the HIGHEST FIRST button, the products must sort descending
+Kroki reprodukcji:
+1. Entrance to the website http://automationpractice.com/index.php
+2. Entering a suitable product in the search engine
+3. Pressing the Search button
+4. Draining and pressing the HIGHEST FIRST button 
+Oczekiwany rezultat:
+After clicking on Highest First Button things are sorted with a decreasing price
+Warunki końcowe:
+Successful entrance to the page, searching for a product, clicking Sort Product From Higher Price
+
+Checkpoint Ernest
