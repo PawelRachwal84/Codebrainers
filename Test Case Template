@@ -1,13 +1,11 @@
-Tytuł / Summary: Sposób wysyłki-wybieranie metody wysyłki
 
-Opis / Description:  Sprawdzenie przekierowania do strony “Metody płatności” po wyboru sposobu wysyłki 
-
-Warunki wstępne / Precondition:Użytkownik powinien byc zalogowany na stronie i mieć produkty w koszyku.
-
-Kroki / Test Steps:
-1.Kliknąć  przycisku „Koszyk” na górnym pasku nawigacyjnym strony
-2.Kliknąć przycisk “Dostawa”
-3.Wybrać metod dostawy
-4.Kliknąć przycisk „Przejdź do kasy” 
-
-Oczekiwane rezultaty / Expected Result: Po kliknięciu „Przejdź do kasy” Użytkownik powinien być przekierowany do strony metody płatności.
+Tytuł / Summary: Sprawdzenie dostępności reklam i ich responsywności
+Opis / Description: weryfikujemy czy na komercyjnych stronach sklepu pojawiają się reklamy w wymaganej ilości i odpowiednio przenoszą na podstrony promocji
+Warunki wstępne / Precondition:użytkownik nie musi się logować - wystarczy zę znajduje sie na głównej stronie sklepu 
+Kroki / Test Steps 
+Wejdź na stronę główną sklepu i sprawdź czy znajdują sie na niej 2 -4 banery reklamowe
+sprawdź czy na każdej stronie każda reklama powinna wyświetlać się przez 30 sek
+Potwierdź że reklamy które się wyświtlają sa zgodne z lista dostępnych reklam i produktów w sklepie
+kliknij w jedną z reklam zweryfikuj czy przenosi na stronę poprawnego produktu
+zweryfikuj czy kliknięcie reklamy generuje plik cookie który wciąga się do statystyk
+sprawdź czy reklama dostosowuje się do wyborów użytkownika
