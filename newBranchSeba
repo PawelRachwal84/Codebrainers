@@ -1,0 +1,10 @@
+Opis / Description: User cannot decrease number of items to '0”
+Warunki wstępne / Precondition: shop main page, dresses category
+Kroki / Test Steps 
+use www.shop.de url address, enter main page, , 
+click on categories
+choose two dresses 
+tap shopin cardt
+remove dress from shopping card
+Expected Result:  When User remove dress from shopping car , User cannot decrease number of items to '0”
+Warunki końcowe: User cannot decrease number of item to 0 
